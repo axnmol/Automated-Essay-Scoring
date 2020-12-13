@@ -1,2 +1,15 @@
 # Automated-Essay-Scoring
-![alt text]()
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-1.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-2.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-3.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-4.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-5.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-6.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-7.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-8.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-9.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-10.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-12.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-13.jpg)
+![alt text](https://github.com/axnmol/Automated-Essay-Scoring/blob/master/Images/AES-14.jpg)
+
